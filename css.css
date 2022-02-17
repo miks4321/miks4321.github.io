@@ -3,8 +3,7 @@ body{
     color: white;
 }
 
-title{
+#title{
     text-align: center;
     font-size: 24;
-    font-family: "Comic Sans Ms";
 }
